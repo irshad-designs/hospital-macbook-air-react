@@ -80,7 +80,7 @@ const Details = () => {
             <h6>Jessicamila</h6>
           </div>
           <div>
-            <a href="#">
+            <a>
               <img src={report} alt="report" />
               Note
             </a>
@@ -106,7 +106,7 @@ const Details = () => {
             <h6>Jessicamila</h6>
           </div>
           <div>
-            <a href="#">
+            <a>
               <img src={report} alt="report" />
               Note
             </a>
