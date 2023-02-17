@@ -80,10 +80,10 @@ const Details = () => {
             <h6>Jessicamila</h6>
           </div>
           <div>
-            <a>
+            <button>
               <img src={report} alt="report" />
               Note
-            </a>
+            </button>
           </div>
         </div>
         <div className="details__content">
@@ -106,10 +106,10 @@ const Details = () => {
             <h6>Jessicamila</h6>
           </div>
           <div>
-            <a>
+            <button>
               <img src={report} alt="report" />
               Note
-            </a>
+            </button>
           </div>
         </div>
       </div>
